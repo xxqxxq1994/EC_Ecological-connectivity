@@ -1,5 +1,3 @@
-setwd("/Users/xuxiaoqing/OneDrive - The University Of Hong Kong/Isolate/002-Ecoli-Genome/Manuscript/")
-
 #install.packages("circlize")
 library(circlize)
 
