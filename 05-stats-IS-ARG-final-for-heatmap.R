@@ -1,4 +1,3 @@
-setwd("/Users/xuxiaoqing/OneDrive - The University Of Hong Kong/Isolate/002-Ecoli-Genome/Manuscript/")
 library(dplyr)
 library(stringr)
 library(purrr)
