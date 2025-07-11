@@ -1,5 +1,3 @@
-setwd("/Users/xuxiaoqing/OneDrive - The University Of Hong Kong/Isolate/002-Ecoli-Genome/Manuscript/NC/resubmission/revised-plasmid-figure/")
-
 # 加载所需的库
 library(tidyr)
 library(dplyr)
