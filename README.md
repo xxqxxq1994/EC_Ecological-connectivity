@@ -2,7 +2,7 @@
 
 AMR Data Analysis Scripts
 
-This repository contains scripts used for antimicrobial resistance (AMR)-related genomic analyses, with a focus on ecological connectivity in Escherichia coli. The scripts cover sequence type (ST) sharing, plasmid and ARG feature statistics, resistome and pangenome similarity metrics, mobile genetic element associations, and publication-ready figure generation. The following is a description of all these files.
+This repository contains scripts used for antimicrobial resistance (AMR)-related genomic analyses, with a focus on ecological connectivity in Escherichia coli. The scripts cover sequence type (ST) sharing, plasmid and ARG feature statistics, resistome and pangenome similarity metrics, mobile genetic element associations, and figure generation. The following is a description of all these files.
 
 ## Script Descriptions
 
