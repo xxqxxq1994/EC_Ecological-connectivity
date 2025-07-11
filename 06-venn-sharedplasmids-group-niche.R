@@ -30,6 +30,6 @@ venn.plot <- draw.triple.venn(
 )
 
 # 保存Venn图到文件
-ggsave(filename = "plasmid-group_venn.png", plot = venn.plot, width = 16, height = 16, dpi = 300, bg = "transparent")
+png("plasmid-group_venn.png", width = 16, height = 16, res = 300, bg = "transparent")
 grid.draw(venn.plot)
 dev.off()
